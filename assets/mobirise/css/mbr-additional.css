@@ -475,6 +475,10 @@ h6,
 #menu-2 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box8-d .mbr-section-title,
+#msg-box8-d p {
+  color: #fff;
+}
 #features4-8 .card-subtitle {
   color: #bcbcbc;
 }

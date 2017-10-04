@@ -25,8 +25,8 @@
       ]
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 13,
-    "versionPublish": "4.2.4"
+    "uniqCompNum": 31,
+    "versionPublish": "4.3.0"
   },
   "pages": {
     "index.html": {
@@ -89,19 +89,19 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">WHAT WE DO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MEET THE TEAM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Thulane</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bamphitile</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">ABOUT&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo1-154x128.png",
@@ -225,7 +225,7 @@
                 "title": "Conceptualization",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Kickstart your creative process and let us finish it off for you. We take problems and come up with a solution for it",
+                "text": "Kickstart your creative process and let us finish it off for you. We take problems and come up with a solutions for them",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -236,6 +236,40 @@
           ],
           "_name": "slider",
           "_anchor": "slider-9"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WHAT WE ARE ABOUT",
+          "text": "<p>This is what we are about.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-d"
         },
         {
           "_styles": {
@@ -441,7 +475,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>283 Namibia Road\n<br>Tsutsumani Alexandra\n<br>Johannesburg\n<br>\n<br>2090&nbsp;<br>",
-          "text2": "<strong>Contacts</strong><br>Email: thulane.alfred@gmail.com\n<br>Phone: +27 (0) 71 309 6830<br>",
+          "text2": "<strong>Contacts</strong><br>Email: thulanen@psybrtech.co.za<br>Phone: +27 (0) 71 309 6830<br>",
           "text3": "<strong>Links</strong><br><br>",
           "_tags": [
             "Theme"
